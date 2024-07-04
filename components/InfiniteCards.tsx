@@ -18,7 +18,7 @@ export function InfiniteCards() {
                 speed="slow"
             />
         </div>
-        </div>
+
     );
 }
 
